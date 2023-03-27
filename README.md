@@ -1,1 +1,1 @@
-# dbt-fundamentals
+# dbt-notes
